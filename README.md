@@ -11,25 +11,25 @@ Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passiona
 - 📚 **Currently Learning:** Python and JavaScript (JS)
 - 🎨 **Creative Side:** Graphics Designer & Motion Artist
 - 💡 **Goal:** Building tech ideas and gaining deep industry knowledge
-- 🌐 **My Portfolio:** Check out my live site at [samarthhh.vercel.app](https://samarthhh.vercel.app/)
+- 🌐 **My Portfolio:** Check out my live site at [samarthhh.vercel.app](https://vercel.app)
 
 ---
 
 ### 🛠️ Programming Languages & Tech Stack
 
 #### 💻 Languages
-- ![Python](https://shields.io) **Python** *(Learning)*
-- ![JavaScript](https://shields.io) **JavaScript** *(Learning)*
-- ![HTML](https://shields.io) **HTML**
-- ![CSS](https://shields.io) **CSS**
+- <img src="shields.io" alt="Python" /> **Python** *(Learning)*
+- <img src="shields.io" alt="JavaScript" /> **JavaScript** *(Learning)*
+- <img src="shields.io" alt="HTML" /> **HTML**
+- <img src="shields.io" alt="CSS" /> **CSS**
 
 #### 🔧 Tools
-- ![GitHub](https://shields.io) **GitHub**
-- ![VS Code](https://shields.io) **Visual Studio Code**
+- <img src="shields.io" alt="GitHub" /> **GitHub**
+- <img src="shields.io" alt="VS Code" /> **Visual Studio Code**
 
 #### ☁️ Cloud & Deployment
-- ![Vercel](https://shields.io) **Vercel**
-- ![Netlify](https://shields.io) **Netlify**
+- <img src="shields.io" alt="Vercel" /> **Vercel**
+- <img src="shields.io" alt="Netlify" /> **Netlify**
 
 ---
 
@@ -49,5 +49,5 @@ Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passiona
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 - 📧 **Email:** [DevSamarthasati@proton.me](mailto:DevSamarthasati@proton.me)
