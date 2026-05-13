@@ -6,12 +6,12 @@
 ---
 
 ### 🚀 About Me
-Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passionate about coding, web development, and creative design. 
+Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passionate about coding, web development, and creative design.
 
 - 📚 **Currently Learning:** Python and JavaScript (JS)
 - 🎨 **Creative Side:** Graphics Designer & Motion Artist
 - 💡 **Goal:** Building tech ideas and gaining deep industry knowledge
-- 🌐 **My Portfolio:** Check out my live site at [samarthhh.vercel.app](https://vercel.app)
+- 🌐 **My Portfolio:** Check out my live site at [samarthhh.vercel.app](https://samarthhh.vercel.app/)
 
 ---
 
