@@ -36,12 +36,8 @@ Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passiona
 ### 📈 GitHub Stats & Analytics
 
 <div align="center">
-  <!-- Real Live GitHub Stats -->
   <img src="vercel.app" alt="Samarth's GitHub Stats" />
-  
   <br/><br/>
-  
-  <!-- Real Live Contribution Streak -->
   <img src="herokuapp.com" alt="Samarth's GitHub Streak" />
 </div>
 
