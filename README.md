@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hello World, I am Samarth Asati!</h1>
+  <p><strong>Grade 10 Student | Tech Enthusiast | AI & Innovation | Graphic Designer</strong></p>
+</div>
 
-<!--
-**Samarth71/samarth71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passionate about coding, web development, and creative design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **Currently Learning:** Python and JavaScript (JS)
+- 🎨 **Creative Side:** Graphics Designer & Motion Artist
+- 💡 **Goal:** Building tech ideas and gaining deep industry knowledge
+- 🌐 **My Portfolio:** Check out my live site at [samarthhh.vercel.app](https://vercel.app)
+
+---
+
+### 🛠️ Programming Languages & Tech Stack
+
+#### 💻 Languages
+- ![Python](https://shields.io) **Python** *(Learning)*
+- ![JavaScript](https://shields.io) **JavaScript** *(Learning)*
+- ![HTML](https://shields.io) **HTML**
+- ![CSS](https://shields.io) **CSS**
+
+#### 🔧 Tools
+- ![GitHub](https://shields.io) **GitHub**
+- ![VS Code](https://shields.io) **Visual Studio Code**
+
+#### ☁️ Cloud & Deployment
+- ![Vercel](https://shields.io) **Vercel**
+- ![Netlify](https://shields.io) **Netlify**
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="vercel.app" alt="Samarth's GitHub Stats" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
+- 💼 **LinkedIn:** [www.linkedin.com/in/samarth-asati](https://linkedin.com)
+- 📧 **Email:** [DevSamarthasati@proton.me](mailto:DevSamarthasati@proton.me)
