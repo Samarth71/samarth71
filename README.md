@@ -31,17 +31,6 @@ Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passiona
 - **Vercel**
 - **Netlify**
 
----
-
-### 📈 GitHub Stats & Analytics
-
-<div align="center">
-  <img src="vercel.app" alt="Samarth's GitHub Stats" />
-  <br/><br/>
-  <img src="herokuapp.com" alt="Samarth's GitHub Streak" />
-</div>
-
----
 
 ### 📬 Connect With Me
 
