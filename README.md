@@ -34,5 +34,5 @@ Hey! I am **Samarth Asati**, a Grade 10 student from India. I am highly passiona
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 💼 **LinkedIn:**www.linkedin.com/in/samarth-asati
 - 📧 **Email:** [DevSamarthasati@proton.me](mailto:DevSamarthasati@proton.me)
